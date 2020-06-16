@@ -2,6 +2,7 @@
 # 数据库连接串&密码
 mariadb:
   url: 'jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
+  # 解开是 123456
   password: '{cipher}2819a72224238b86744086fa29d3ba6a15befbf45e686c6cba64dca80b4e5e79'
   
 # 功能开关
