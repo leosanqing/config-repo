@@ -8,5 +8,5 @@ mariadb:
 # 功能开关
 userservice:
   registration:
-    disable: true
+    disable: false
    
